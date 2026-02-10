@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-european-maximalist-tradition-innovation",
+  "title": "The Archival Suspension of Silence",
+  "tagline": "In a rain-lashed Vienna, a scholar of tradition confronts a prophet of the new, forcing a reckoning with the very substance of history and the engineered voids of the future.",
+  "target_words": 65946,
+  "actual_words": 65946,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Intellectual History",
+    "The Clash of Epistemologies",
+    "The Materiality of Absence",
+    "The Performance of Knowledge"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Grey, Vertical Polemic",
+      "words": 5495
+    },
+    {
+      "ch": 2,
+      "title": "The Photograph's Certainty",
+      "words": 5495
+    },
+    {
+      "ch": 3,
+      "title": "Silence as a Substance",
+      "words": 5495
+    },
+    {
+      "ch": 4,
+      "title": "The Castle's Capricious Pedagogy",
+      "words": 5495
+    },
+    {
+      "ch": 5,
+      "title": "A Prisoner of the Future",
+      "words": 5495
+    },
+    {
+      "ch": 6,
+      "title": "The Surgical Laceration of Waiting",
+      "words": 5495
+    },
+    {
+      "ch": 7,
+      "title": "The Archival Suspension",
+      "words": 5495
+    },
+    {
+      "ch": 8,
+      "title": "The Engineered Void",
+      "words": 5495
+    },
+    {
+      "ch": 9,
+      "title": "The Argument Made Flesh",
+      "words": 5495
+    },
+    {
+      "ch": 10,
+      "title": "The Vessel of a Struck Bell",
+      "words": 5495
+    },
+    {
+      "ch": 11,
+      "title": "The Silence of a Blank Page",
+      "words": 5495
+    },
+    {
+      "ch": 12,
+      "title": "The Murmur of Consensus",
+      "words": 5495
+    }
+  ]
+}
